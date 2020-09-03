@@ -27,3 +27,5 @@ or if you have eslint installed globally on your machine:
 --> eslint --init
 
 7: Check eslint config (change environment("env") as needed).
+
+(*** Still need to organize the eslintrc file for better modularity ***)
